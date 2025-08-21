@@ -9,15 +9,15 @@
       
       <div class="row align-items-center justify-content-center">
         <div class="col-auto">
-          <h2 class="fs-6 text-muted">Proud partner of</h2>
+          <h2 class="fs-6 m-0 py-2 text-muted">Proud partner of</h2>
         </div>
         <!--/col-->
-        <div class="col-auto d-flex-inline">
-          <img class="px-3" src="https://placehold.co/140x48?text=PODS" alt="Partner logo">
-          <img class="px-3" src="https://placehold.co/140x48?text=Budget" alt="Partner logo">
-          <img class="px-3" src="https://placehold.co/140x48?text=U-Pack" alt="Partner logo">
-          <img class="px-3" src="https://placehold.co/140x48?text=Penske" alt="Partner logo">
-          <img class="px-3" src="https://placehold.co/140x48?text=PackRat" alt="Partner logo">
+        <div class="col-auto d-flex-inline text-center">
+          <img class="px-2 py-1" src="https://placehold.co/140x48?text=PODS" alt="Partner logo">
+          <img class="px-2 py-1" src="https://placehold.co/150x48?text=Budget" alt="Partner logo">
+          <img class="px-2 py-1" src="https://placehold.co/140x48?text=U-Pack" alt="Partner logo">
+          <img class="px-2 py-1" src="https://placehold.co/160x48?text=Penske" alt="Partner logo">
+          <img class="px-2 py-1" src="https://placehold.co/130x48?text=PackRat" alt="Partner logo">
         </div>
         <!--/col-->
       </div>

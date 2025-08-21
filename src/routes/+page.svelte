@@ -325,25 +325,33 @@
   <section class="container-lg bg-white py-4">
     
     <!-- Banner row -->
-    <div class="row mb-4">
-      <img class="img-fluid rounded-3" src="https://placehold.co/800x450" alt="Image alt text">
+    <div class="row justify-content-center mb-4">
+      <div class="col-12 col-lg-10 d-flex justify-content-center">
+        <img class="img-fluid rounded-3" src="https://placehold.co/800x450" alt="Image alt text">
+      </div>
     </div><!--/row-->
     
     <!-- Section header -->
-    <div class="row">
-      <header class="mb-4">
-        <h2 class="text-center">Real Advice From San Diego Movers</h2>
-        <p class="text-center">We asked local movers about what you should know about moving in San Diego. (They’re really nice!)</p>
-      </header>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10 d-flex justify-content-center">
+        <header class="mb-4">
+          <h2 class="text-sm-center">Real Advice From San Diego Movers</h2>
+          <p class="text-sm-center">We asked local movers about what you should know about moving in San Diego. (They’re really nice!)</p>
+        </header>
+      </div>
     </div>
     
     <!-- Cards grid -->
-    <div class="row gy-4">
+    <div class="row g-3">
       
       <!-- Column -->
-      <div class="col-3">
-        <div class="card p-3">
-          <p>"Parking is tough in San Diego, so having a loading zone nearby and available will save a lot of time. Also, if you are moving into a space with an elevator, you may need to reserve it."</p>
+      <div class="col-12 col-md-4 col-xl-3 align-items-stretch">
+        <div class="card h-100 d-flex justify-content-between p-3">
+          <!-- Top block -->
+          <div>
+            <p>"Parking is tough in San Diego, so having a loading zone nearby and available will save a lot of time. Also, if you are moving into a space with an elevator, you may need to reserve it."</p>
+          </div>
+          <!-- Bottom block -->
           <div class="pt-2 d-flex-inline">
             <img class="rounded-circle" src="https://placehold.co/48x48" alt="User avatar">
             <span><a href="#">Card link</a></span>
@@ -352,8 +360,8 @@
       </div><!--/col-->
       
       <!-- Column -->
-      <div class="col-3">
-        <div class="card p-3">
+      <div class="col-12 col-md-4 col-xl-3">
+        <div class="card h-100 d-flex justify-content-between p-3">
           <p>"We recommend scheduling your move as far in advance as possible. The farther out you can plan your move, the greater the availability you will have in choosing a date and time that is convenient for you. Our busiest times of the year are June-September, Saturdays throughout the year, and the end of each month."</p>
           <div class="pt-2 d-flex-inline">
             <img class="rounded-circle" src="https://placehold.co/48x48" alt="User avatar">
@@ -363,8 +371,8 @@
       </div><!--/col-->
       
       <!-- Column -->
-      <div class="col-3">
-        <div class="card p-3">
+      <div class="col-12 col-md-4 col-xl-3">
+        <div class="card h-100 d-flex justify-content-between p-3">
           <p>"Colorado is expanding exponentially it seems and that means the sooner you can book, schedule, and /or reserve your necessary vehicles for the day of the move the better off you will be. If at all possible mon- Friday avoid big commutes between 3:00-3:30pm through about 7:30-8:00pm the weekends are pretty much good all day though. Weather changes are fast and drastic, if you're in warm weather wear you should have cold weather attire on hand because it can go from sun to snow in 20 minutes or less. "</p>
           <div class="pt-2 d-flex-inline">
             <img class="rounded-circle" src="https://placehold.co/48x48" alt="User avatar">
@@ -374,9 +382,20 @@
       </div><!--/col-->
       
       <!-- Column -->
-      <div class="col-3">
-        <div class="card p-3">
+      <div class="col-12 col-md-4 col-xl-3">
+        <div class="card h-100 d-flex justify-content-between p-3">
           <p>"Parking is tough in San Diego, so having a loading zone nearby and available will save a lot of time. Also, if you are moving into a space with an elevator, you may need to reserve it."</p>
+          <div class="pt-2 d-flex-inline">
+            <img class="rounded-circle" src="https://placehold.co/48x48" alt="User avatar">
+            <span><a href="#">Card link</a></span>
+          </div>
+        </div>
+      </div><!--/col-->
+
+      <!-- Column -->
+      <div class="col-12 col-md-4 col-xl-3">
+        <div class="card h-100 d-flex justify-content-between p-3">
+          <p>"We recommend scheduling your move as far in advance as possible. The farther out you can plan your move, the greater the availability you will have in choosing a date and time that is convenient for you. Our busiest times of the year are June-September, Saturdays throughout the year, and the end of each month."</p>
           <div class="pt-2 d-flex-inline">
             <img class="rounded-circle" src="https://placehold.co/48x48" alt="User avatar">
             <span><a href="#">Card link</a></span>

@@ -31,7 +31,7 @@
   
   <!-- Feature section -->
   <!-- TODO: Figure out responsive stacking and image horizontal alignment -->
-  <section class="container-lg bg-white py-4">
+  <section class="container bg-white py-4">
     
     <div class="row align-items-center gx-lg-5">
       
@@ -73,7 +73,7 @@
   <hr>
   
   <!-- Card comparison section -->
-  <section class="container-lg bg-white py-4">
+  <section class="container bg-white py-4">
     
     <header class="mb-4">
       <h2 class="text-start text-sm-center">The HireAHelper Advantage</h2>
@@ -118,7 +118,7 @@
   <hr>
   
   <!-- Sample section with a header and a table -->
-  <section class="container-lg bg-white py-4">
+  <section class="container bg-white py-4">
     
     <header class="mb-4">
       <h2 class="text-center">The Cost of Labor-Only Movers in San Diego</h2>
@@ -271,9 +271,10 @@
     
   </section><!-- /reviews-->
   
+  <hr>
   
   <!-- Sample section with a header and multiple "articles" -->
-  <section class="container-lg bg-white py-4">
+  <section class="container bg-white py-4">
     
     <header class="mb-4">
       <h2 class="text-center">Moving Services in San Diego</h2>
@@ -322,7 +323,7 @@
   <hr>
   
   <!-- Real advice section (banner image, header and card grid) -->
-  <section class="container-lg bg-white py-4">
+  <section class="container bg-white py-4">
     
     <!-- Banner row -->
     <div class="row justify-content-center mb-4">
@@ -410,7 +411,7 @@
   <hr>
   
   <!-- Card grid section -->
-  <section class="container-lg bg-white py-4">
+  <section class="container bg-white py-4">
     
     <header class="mb-4">
       <h2 class="text-center">HireAHelper’s Moving Guide for Brookings, SD</h2>
@@ -457,7 +458,7 @@
   
   <hr>
   
-  <section id="related-cities--container" class="expanding-cities container-lg bg-white py-4">
+  <section id="related-cities--container" class="expanding-cities container bg-white py-4">
     
     <div class="row justify-content-center align-items-center gx-5 mx-auto">
       

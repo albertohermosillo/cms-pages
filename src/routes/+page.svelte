@@ -76,13 +76,13 @@
   <section class="container-lg bg-white py-4">
     
     <header class="mb-4">
-      <h2 class="text-center">The HireAHelper Advantage</h2>
+      <h2 class="text-start text-sm-center">The HireAHelper Advantage</h2>
     </header>
     
-    <div class="row justify-content-center align-items-sm-stretch">
+    <div class="row gy-3 justify-content-center align-items-sm-stretch">
       <!-- TODO: Stacking in tablet vertical (sm?) -->
-      <div class="col col-sm-4 d-flex align-items-sm-stretch">
-        <div class="card p-3 rounded-5 card-red-border">
+      <div class="col-12 col-sm-10 col-md-5 d-flex align-items-sm-stretch">
+        <div class="card w-100 p-3 rounded-5 card-red-border">
           <h3 class="h4 text-center">The Traditional Move</h3>
           <ul class="list-unstyled">
             {#each Array(3) as _}
@@ -95,11 +95,11 @@
         </div>
       </div><!--/col-->
       
-      <div class="col-auto d-flex align-items-center">
+      <div class="col-12 col-md-auto d-flex justify-content-center align-items-center">
         <span class="h4">vs.</span>
       </div>
-      <div class="col col-sm-4 d-flex align-items-sm-stretch">
-        <div class="card p-3 rounded-5 card-green-border">
+      <div class="col-12 col-sm-10 col-md-5 d-flex align-items-sm-stretch">
+        <div class="card w-100 p-3 rounded-5 card-green-border">
           <h3 class="h4 text-center">Moving With HireAHelper</h3>
           <ul class="list-unstyled">
             {#each Array(3) as _}
